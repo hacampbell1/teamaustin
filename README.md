@@ -77,13 +77,14 @@ The profitability multiplier was a key component of the team's recommendation, w
 
 ### Visualizations
 
-![image.png](attachment:image.png)
+![image](https://github.com/hacampbell1/teamaustin/assets/140438534/34bccb4a-6259-4715-8f06-031dcdfaf5cf)
 
-![image.png](attachment:image.png)
+![image](https://github.com/hacampbell1/teamaustin/assets/140438534/2f7dd993-923d-4849-9f1c-01eebd484c7a)
 
-![image.png](attachment:image.png)
+![image](https://github.com/hacampbell1/teamaustin/assets/140438534/994edf04-7c08-4833-bc63-05e311585c22)
 
-![image.png](attachment:image.png)
+![image](https://github.com/hacampbell1/teamaustin/assets/140438534/479d7108-097d-4c87-a212-fb601c65e1ed)
+
 
 ### Statistical Communication 
 
